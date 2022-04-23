@@ -1,0 +1,22 @@
+*{
+	text-align: center;
+	background-image: url(pink.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+header{
+	color: white;
+}
+p{
+	color: white;
+}
+table{
+	text-align: right;
+	color: white;
+}
+ul{
+	color: black;
+}
+label{
+	color: orange;
+}
